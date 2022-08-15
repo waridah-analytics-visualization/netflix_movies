@@ -20,3 +20,6 @@ The images in png format visualize the results of analytics in step:
 a(3). Visual inspection of data with matplotlib (Netflix movie durations 2011-2020)
 b(6). Creating a scatter plot (Movie duration by year of release)
 c(9). Movie duration by year of release (Min duration)
+![movie  duration 3](https://user-images.githubusercontent.com/64082821/184588065-3b7dff83-b97d-4aa9-9f04-67a50aea1d75.png)
+![movie release 6](https://user-images.githubusercontent.com/64082821/184588072-b6249e68-aba6-416f-a786-f02cc2c4685d.png)
+![movie release 9](https://user-images.githubusercontent.com/64082821/184588077-880d1d26-4869-496d-8aef-67db6598dc92.png)
