@@ -20,4 +20,7 @@ The images in png format visualize the results of analytics in step:
 a(3). Visual inspection of data with matplotlib (Netflix movie durations 2011-2020)
 b(6). Creating a scatter plot (Movie duration by year of release)
 c(9). Movie duration by year of release (Min duration)
-https://github.com/waridah-analytics-visualization/netflix_movies/blob/main/movie%20%20duration%203.png
+
+![movie  duration 3](https://user-images.githubusercontent.com/64082821/184588288-6a563380-70b4-47cc-8a6f-374bba84a075.png)
+![movie release 6](https://user-images.githubusercontent.com/64082821/184588294-c161455b-d4fc-4240-95e2-77dab1274ee7.png)
+![movie release 9](https://user-images.githubusercontent.com/64082821/184588305-d08edc31-0e28-4d07-a05e-045802ee58ec.png)
