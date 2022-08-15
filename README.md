@@ -16,4 +16,7 @@ I used netflix data provided by datacamp for this project.
 
 
 # Visualization
-The images in png format visualize the results of analytics in step 3,6 and 9
+The images in png format visualize the results of analytics in step:
+a(3). Visual inspection of data with matplotlib (Netflix movie durations 2011-2020)
+b(6). Creating a scatter plot (Movie duration by year of release)
+c(9). Movie duration by year of release (Min duration)
