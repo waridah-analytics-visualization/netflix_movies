@@ -13,3 +13,7 @@ I used Python jupyter notebook for this project as it allowed ease of access in 
 
 # Data
 I used netflix data provided by datacamp for this project.
+
+
+# Visualization
+The images in png format visualize the results of analytics in step 3,6 and 9
