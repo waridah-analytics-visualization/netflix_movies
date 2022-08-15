@@ -21,7 +21,7 @@ durations_df = pd.DataFrame(movie_dict)
 # Print the DataFrame
 print(durations_df)
 
-# visual inspection of our data
+# visual inspection of our data 
 
 # Import matplotlib.pyplot under its usual alias and create a figure
 from matplotlib import pyplot as plt
